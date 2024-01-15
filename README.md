@@ -1,4 +1,4 @@
-[U<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="style4.css">
@@ -10,5 +10,5 @@
 	<h1 class="name">Helllooo World</h1>
 
 </body>
-</html>ploading index.html…]()
+</html>
 
